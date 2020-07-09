@@ -8,7 +8,7 @@ print(f'ooh nama kamu : {nama}')
 print('Belajar penjumlahan \n')
 n1 = input('masukkan nilai a :')
 n2 = input('masukkan nilai b :')
-hasil = n1+n2
+hasil = int(n1)+int(n2)
 print(f'hasil penjumlahan a + b = {hasil}')
 
 anak = ['aqila', 'anisa']
