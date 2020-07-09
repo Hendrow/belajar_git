@@ -4,6 +4,7 @@ print('perkenalkan nama saya Hendro')
 nama = input('siapa nama anda ? ')
 print(f'ooh nama kamu : {nama}')
 
+# menambahkan input
 print('Belajar penjumlahan \n')
 n1 = input('masukkan nilai a :')
 n2 = input('masukkan nilai b :')
