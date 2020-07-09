@@ -10,3 +10,7 @@ n1 = input('masukkan nilai a :')
 n2 = input('masukkan nilai b :')
 hasil = n1+n2
 print(f'hasil penjumlahan a + b = {hasil}')
+
+anak = ['aqila', 'anisa']
+for i in anak:
+  print(f"Nama anak saya adalah {i}")
